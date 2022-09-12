@@ -1,6 +1,6 @@
 function Header() {
     return (
-        <tr>
+        <tr role="row">
             <th>id</th>
             <th>image</th>
             <th>name</th>

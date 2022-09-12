@@ -2,7 +2,7 @@ import Data from '../data.json';
 
 function Main() {
     return (
-        <>
+        <div role="rows">
             {
                 Data && Data.content.map((datum) =>
                     <tr>
@@ -61,7 +61,7 @@ function Main() {
                     </tr>
                 )
             }
-        </>
+        </div>
     )
 }
 
