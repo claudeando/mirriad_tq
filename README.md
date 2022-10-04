@@ -1,4 +1,4 @@
-You might want to include a simple README.md fi le that explains how to display your solution.
+You might want to include a simple README.md file that explains how to display your solution.
 
 Start the project by pulling this repository to your local host. Soon after you might want to start the project ty npm install all packages utilised in this project, then type npm start.
 
